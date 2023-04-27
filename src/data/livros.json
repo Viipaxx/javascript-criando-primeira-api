@@ -1,0 +1,56 @@
+[
+{
+    "id": "0",
+    "autor": "Igor Paz",
+    "livro": "A vida de um viciado em faltar aula",
+    "lancamento": "2023"
+},
+{
+    "id": "1",
+    "autor": "Vitor Paz",
+    "livro": "Vidas e Desafios",
+    "lancamento": "2023"
+},
+{
+    "id": "2",
+    "autor": "Paçoca",
+    "livro": "Diário de um Paçoca: Início",
+    "lancamento": "2022"
+},
+{
+    "id": "3",
+    "autor": "Paçoca",
+    "livro": "Diário de um Paçoca: Próxima fase",
+    "lancamento": "2023"
+},
+{
+    "id": "4",
+    "autor": "Paçoca",
+    "livro": "Diário de um Paçoca: Última fase",
+    "lancamento": "2023"
+},
+{
+    "id": "5",
+    "autor": "Megnolia",
+    "livro": "4 Vidas da Sakura",
+    "lancamento": "2022"
+},
+{
+    "id": "6",
+    "autor": "Megnolia",
+    "livro": "4 Vidas da Sakura pt.2",
+    "lancamento": "2023"
+},
+{
+    "id": "7",
+    "autor": "Speed",
+    "livro": "Para sempre com você",
+    "lancamento": "2022"
+},
+{
+    "id": "8",
+    "autor": "Speed",
+    "livro": "A história de um aumigo",
+    "lancamento": "2023"
+}
+]
